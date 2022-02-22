@@ -1,0 +1,11 @@
+C:\Users\gzcmu\source\repos\CheckerboardProject\CheckerboardProject\bin\Debug\CheckerboardProject.exe.config
+C:\Users\gzcmu\source\repos\CheckerboardProject\CheckerboardProject\bin\Debug\CheckerboardProject.exe
+C:\Users\gzcmu\source\repos\CheckerboardProject\CheckerboardProject\bin\Debug\CheckerboardProject.pdb
+C:\Users\gzcmu\source\repos\CheckerboardProject\CheckerboardProject\obj\Debug\CheckerboardProject.csproj.AssemblyReference.cache
+C:\Users\gzcmu\source\repos\CheckerboardProject\CheckerboardProject\obj\Debug\CheckerboardProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\gzcmu\source\repos\CheckerboardProject\CheckerboardProject\obj\Debug\CheckerboardProject.Form1.resources
+C:\Users\gzcmu\source\repos\CheckerboardProject\CheckerboardProject\obj\Debug\CheckerboardProject.Properties.Resources.resources
+C:\Users\gzcmu\source\repos\CheckerboardProject\CheckerboardProject\obj\Debug\CheckerboardProject.csproj.GenerateResource.cache
+C:\Users\gzcmu\source\repos\CheckerboardProject\CheckerboardProject\obj\Debug\CheckerboardProject.csproj.CoreCompileInputs.cache
+C:\Users\gzcmu\source\repos\CheckerboardProject\CheckerboardProject\obj\Debug\CheckerboardProject.exe
+C:\Users\gzcmu\source\repos\CheckerboardProject\CheckerboardProject\obj\Debug\CheckerboardProject.pdb
